@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# About
+This application was inspired by the [Alien.js](https://github.com/pschroen/alien.js) [flowmap](https://alien.js.org/examples/shader_flowmap_rgbshift.html) by [Patrick Schroen](https://twitter.com/pschroen).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://nemutas.github.io/r3f-flowmap/
 
-## Available Scripts
+![output(video-cutter-js com) (2)](https://user-images.githubusercontent.com/46724121/162637521-d3bff08f-3b1f-42fa-99b3-ab8ab185c8e8.gif)
 
-In the project directory, you can run:
+# Technology
 
-### `npm start`
+- TypeScript
+- React（Create React App）
+- React Three Fiber（Three.js）
+- Postprocessing
+- GPGPU
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Reference
+The scene was created using the following CodeSandbox as a reference.<br>
+However, the description method is out of date. For the latest description method, please check the document.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* [Reflectorplanes and bloom](https://codesandbox.io/s/reflectorplanes-and-bloom-jflps)
+* [MeshReflectorMaterial](https://github.com/pmndrs/drei#meshreflectormaterial)
 
-### `npm test`
+# License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This source code is not MIT License.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+❌ Commercial use is prohibited.<br>
+❌ Redistribution is prohibited.<br>
+❌ Diversion is prohibited.（Incorporate all of the code into the project, etc.）<br>
+✅ You can look at the application and reproduce the representation.<br>
+✅ You can use parts of the code.
