@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/r3f-flowmap/static/css/main.4efb37a3.css",
+    "main.js": "/r3f-flowmap/static/js/main.b6a24ce0.js",
+    "static/js/27.7e66acd5.chunk.js": "/r3f-flowmap/static/js/27.7e66acd5.chunk.js",
+    "index.html": "/r3f-flowmap/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.b6a24ce0.js"
+  ]
+}
